@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_page_config">PageConfig</string>
+    <string name="title_activity_page_data">PageData</string>
+    <string name="title_activity_page_profile">PageProfile</string>
+    <string name="PageConfig">Config Page</string>
+    <string name="PageData">Data Page</string>
+    <string name="PageProfile">Profile Page</string>
+</resources>
